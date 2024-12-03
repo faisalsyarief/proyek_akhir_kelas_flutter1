@@ -4,8 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-	<key>CFBundleDisplayName</key>
-	<string>Proyek Akhir Kelas Flutter1</string>
+    <key>CFBundleDisplayName</key>
+	<string>Mobile Banking</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>proyek_akhir_kelas_flutter1</string>
+	<string>proyek_akhir_kelas_flutter</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -45,5 +45,14 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+    <key>UIAppFonts</key>
+    <array>
+      <string>Oxygen-Bold.ttf</string>
+      <string>Oxygen-Light.ttf</string>
+      <string>Oxygen-Regular.ttf</string>
+      <string>Quintessential-Regular.ttf</string>
+      <string>Staatliches-Regular.ttf</string>
+    </array>
 </dict>
 </plist>
